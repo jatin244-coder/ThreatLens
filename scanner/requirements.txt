@@ -1,0 +1,6 @@
+dnspython
+fastapi
+httpx
+pydantic
+pytest
+uvicorn
